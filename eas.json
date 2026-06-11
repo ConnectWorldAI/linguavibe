@@ -13,6 +13,9 @@
       },
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EAS_BUILD_RUNNER": "eas-build"
       }
     },
     "preview": {
@@ -22,6 +25,9 @@
       },
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EAS_BUILD_RUNNER": "eas-build"
       }
     },
     "production": {
@@ -31,6 +37,9 @@
       "android": {
         "autoIncrement": true,
         "buildType": "app-bundle"
+      },
+      "env": {
+        "EAS_BUILD_RUNNER": "eas-build"
       }
     }
   },
