@@ -31,9 +31,6 @@
       "android": {
         "autoIncrement": true,
         "buildType": "app-bundle"
-      },
-      "env": {
-        "NPM_TOKEN": ""
       }
     }
   },
