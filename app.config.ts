@@ -3,7 +3,7 @@ import "./scripts/load-env.js";
 import type { ExpoConfig } from "expo/config";
 
 // Bundle ID format: space.manus.<project_name_dots>.<timestamp>
-const rawBundleId = "com.app.linguavibe";
+const rawBundleId = "space.manus.linguavibe.t20250521003745";
 const bundleId =
   rawBundleId
     .replace(/[-_]/g, ".")
@@ -122,6 +122,11 @@ const config: ExpoConfig = {
   experiments: {
     typedRoutes: true,
     reactCompiler: true,
+  },
+  extra: {
+    eas: {
+      projectId: "392e403e-122b-4ba2-889c-5c966ce1c083",
+    },
   },
 };
 
