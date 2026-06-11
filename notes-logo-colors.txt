@@ -1,0 +1,15 @@
+Logo Colors (from icon.png):
+- Deep navy/black background: #040810 / #0A1628
+- Neon electric blue glow ring: #00AAFF / #00CCFF
+- Gold/amber waveform (left side): #FFB800 / #FFA500
+- White/blue waveform (right side): #FFFFFF / #00CCFF
+- Red accents (flags): #DC2626 / #FF2D2D
+- White text: #FFFFFF
+- Green accent (in "O" of ConnectMe): #16A34A
+
+Primary brand colors for UI:
+1. Electric Blue (primary): #00AAFF
+2. Gold/Amber (accent): #FFB800
+3. Red (accent): #FF2D2D
+4. Deep Navy (background): #040810
+5. Cyan glow: #00CCFF

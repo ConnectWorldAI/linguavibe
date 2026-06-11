@@ -1,0 +1,8 @@
+Pixabay Reggaeton Beat Audio URLs:
+
+Track 1: "Reggaeton Beat" by prettyjohn1 (1:16)
+CDN URL: https://cdn.pixabay.com/audio/2026/03/31/audio_3a9f3d5bc5.mp3
+Page: https://pixabay.com/music/reggaeton-reggaeton-beat-511839/
+License: Pixabay Content License (free for use, no attribution required)
+
+Need to find a second track for the "Noche de Rumba" demo.

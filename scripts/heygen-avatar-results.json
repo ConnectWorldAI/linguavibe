@@ -1,0 +1,380 @@
+{
+  "results": [
+    {
+      "teacherId": "maria",
+      "teacherName": "María",
+      "avatarId": "0c84498aec174b9cb9b19932c38ce902",
+      "avatarGroupId": "6accdd4fb68e46008f832ac1946e9ed6",
+      "status": "success"
+    },
+    {
+      "teacherId": "carlos",
+      "teacherName": "Carlos",
+      "avatarId": "146c430ca5b6449aa99c92b752934ce6",
+      "avatarGroupId": "bff0ad623c43457a9f3c00b61c319e00",
+      "status": "success"
+    },
+    {
+      "teacherId": "rafael",
+      "teacherName": "Rafael",
+      "avatarId": "cd99a1cb9dbc43079b3979b53e682e56",
+      "avatarGroupId": "3b40c1374ea640cdb329c3fbcbea1f1b",
+      "status": "success"
+    },
+    {
+      "teacherId": "luis",
+      "teacherName": "Luis",
+      "avatarId": "8799c178bff74264b363ca84718f082e",
+      "avatarGroupId": "98e4300cf50b48deb3cf8f970ffcf787",
+      "status": "success"
+    },
+    {
+      "teacherId": "valentina",
+      "teacherName": "Valentina",
+      "avatarId": "d8b31df48a1f4dea9cb33465bfa42a24",
+      "avatarGroupId": "a3a0388afb64481daf752d0f973ed74a",
+      "status": "success"
+    },
+    {
+      "teacherId": "sofia",
+      "teacherName": "Sofía",
+      "avatarId": "622a534a49234a67b15ffa1cad27c410",
+      "avatarGroupId": "47aab537f95e4f90848bd44128690767",
+      "status": "success"
+    },
+    {
+      "teacherId": "isabela",
+      "teacherName": "Isabela",
+      "avatarId": "93c7c76478d74776b5512ce019cba190",
+      "avatarGroupId": "e9aae43bef454ef9a6bcc487e0aae775",
+      "status": "success"
+    },
+    {
+      "teacherId": "camila",
+      "teacherName": "Camila",
+      "avatarId": "e091925d528f484d9eab8e728d6239f5",
+      "avatarGroupId": "55de8a0f703c41689e5fd3c877ba9bac",
+      "status": "success"
+    },
+    {
+      "teacherId": "jean",
+      "teacherName": "Jean-Pierre",
+      "avatarId": "32549693f1434553ae411efec3fd063c",
+      "avatarGroupId": "d2970c95794e40bcbcf876762c05ad1d",
+      "status": "success"
+    },
+    {
+      "teacherId": "marie-claire",
+      "teacherName": "Marie-Claire",
+      "avatarId": "ee8082d368b849eabf529a94b010e221",
+      "avatarGroupId": "7c0f860526c448fbb432b60a99e7c0a3",
+      "status": "success"
+    },
+    {
+      "teacherId": "yuki",
+      "teacherName": "Yuki",
+      "avatarId": "0528b56176de4278b850fff17295d98b",
+      "avatarGroupId": "d1ae2487b4d44b47b793942f412c7dae",
+      "status": "success"
+    },
+    {
+      "teacherId": "jimin",
+      "teacherName": "Jimin",
+      "avatarId": "9a7635b6e27f44f6a3f3d226f2067140",
+      "avatarGroupId": "55c14aa743a147cc9ff11df8013a03f7",
+      "status": "success"
+    },
+    {
+      "teacherId": "wei",
+      "teacherName": "Wei",
+      "avatarId": "7fb9a82494fc4d429895cf034faf1dc9",
+      "avatarGroupId": "2585f7f9aca54325b88b14f7b2bf4a85",
+      "status": "success"
+    },
+    {
+      "teacherId": "mei-ling",
+      "teacherName": "Mei-Ling",
+      "avatarId": "ea2247b1545048c282bf18747cc04096",
+      "avatarGroupId": "09cb37b9e2544a58ae2a9b580254b7ce",
+      "status": "success"
+    },
+    {
+      "teacherId": "ahmed",
+      "teacherName": "Ahmed",
+      "avatarId": "94bd688a57494d06a78de509319c8c50",
+      "avatarGroupId": "4c181dca8b3946ff9ceecc6b3d453b00",
+      "status": "success"
+    },
+    {
+      "teacherId": "yasmine",
+      "teacherName": "Yasmine",
+      "avatarId": "b5eaf162b8b24d72a56950fb3e1cb2d5",
+      "avatarGroupId": "4a057be519f344b382d7d1c286eac85d",
+      "status": "success"
+    },
+    {
+      "teacherId": "hans",
+      "teacherName": "Hans",
+      "avatarId": "8906944b7629477fa71fb8471ba2a16d",
+      "avatarGroupId": "f62116db937d4d1cbf625c387172f3e8",
+      "status": "success"
+    },
+    {
+      "teacherId": "giulia",
+      "teacherName": "Giulia",
+      "avatarId": "29485f5a4fe846cb98ee58ddf83d6a3e",
+      "avatarGroupId": "c91f152f9e8f406ba032d0a95f31b0c7",
+      "status": "success"
+    },
+    {
+      "teacherId": "pieter",
+      "teacherName": "Pieter",
+      "avatarId": "23e5f8b241944683824bbdeb2591c4a3",
+      "avatarGroupId": "64c729dd7591450a943f4ff2587568fe",
+      "status": "success"
+    },
+    {
+      "teacherId": "natasha",
+      "teacherName": "Natasha",
+      "avatarId": "0f76b616b5504174aba484d8f2cb5f99",
+      "avatarGroupId": "17495d4d69744712b82278915c2a201c",
+      "status": "success"
+    },
+    {
+      "teacherId": "emre",
+      "teacherName": "Emre",
+      "avatarId": "bb629a8776a14798ab89673214d212d7",
+      "avatarGroupId": "06c7ea0e1e374fcaaa78b170bb2e4356",
+      "status": "success"
+    },
+    {
+      "teacherId": "linh",
+      "teacherName": "Linh",
+      "avatarId": "80999646c9424274add2a76547d7e041",
+      "avatarGroupId": "cad4a814168c4b3ca4fefddf05d494dd",
+      "status": "success"
+    },
+    {
+      "teacherId": "somchai",
+      "teacherName": "Somchai",
+      "avatarId": "228fc911425c4a408a99b0b53a88dcad",
+      "avatarGroupId": "e8bf58bc923d4b2783685629690d0d03",
+      "status": "success"
+    },
+    {
+      "teacherId": "priya",
+      "teacherName": "Priya",
+      "avatarId": "ddbc9e957042461fb357a39dc743a991",
+      "avatarGroupId": "914c6113328f4c398025cc172515a000",
+      "status": "success"
+    },
+    {
+      "teacherId": "kwame",
+      "teacherName": "Kwame",
+      "avatarId": "cfe3e95b657e42389597816a19ae2e3d",
+      "avatarGroupId": "a5e9db558f3f4cbe8836d0a9e43a472f",
+      "status": "success"
+    },
+    {
+      "teacherId": "amara",
+      "teacherName": "Amara",
+      "avatarId": "96bd37fa698c4c40943b0daac270b772",
+      "avatarGroupId": "25c4ee4e52fa435d9d78742c3086eb51",
+      "status": "success"
+    },
+    {
+      "teacherId": "miguel",
+      "teacherName": "Miguel",
+      "avatarId": "8437d5c712cf432995e064b06e96f822",
+      "avatarGroupId": "010cb04d1d4e4d3cb8423f702adc6eaf",
+      "status": "success"
+    },
+    {
+      "teacherId": "anna",
+      "teacherName": "Anna",
+      "avatarId": "72ea051dc24742cf9c276a471b692ccf",
+      "avatarGroupId": "1173b9fc9edc465a9cc68767bad4189b",
+      "status": "success"
+    },
+    {
+      "teacherId": "olivia",
+      "teacherName": "Olivia",
+      "avatarId": "4e7c9f0206b6406892206feff557b479",
+      "avatarGroupId": "57c8d297044d4788990a480bda59bce0",
+      "status": "success"
+    },
+    {
+      "teacherId": "marcus",
+      "teacherName": "Marcus",
+      "avatarId": "6e8fa3f236ba4a4dbcdbc5ba739f81e4",
+      "avatarGroupId": "2d886d06b2d545c5b969b95670a8cced",
+      "status": "success"
+    },
+    {
+      "teacherId": "james",
+      "teacherName": "James",
+      "avatarId": "4a689e6fdfaf4827a8cc66be95fbfa6e",
+      "avatarGroupId": "e5fbac4f400d44cd8c8571888e73b836",
+      "status": "success"
+    },
+    {
+      "teacherId": "chioma",
+      "teacherName": "Chioma",
+      "avatarId": "1c6865c5d34b4d808819294fe67ab92d",
+      "avatarGroupId": "ef9877b143934ba6ae384d20071c573e",
+      "status": "success"
+    },
+    {
+      "teacherId": "priya-en",
+      "teacherName": "Priya",
+      "avatarId": "1a76f8ff545342338067ec8f30bc0480",
+      "avatarGroupId": "960e114503e5467e904f247a35b0a3f1",
+      "status": "success"
+    },
+    {
+      "teacherId": "thabo",
+      "teacherName": "Thabo",
+      "avatarId": "f66cb36fe4e14622ac6a35bc815ab719",
+      "avatarGroupId": "2500e17c29d14cbe9813ed0574791ff1",
+      "status": "success"
+    }
+  ],
+  "avatarMap": {
+    "maria": {
+      "avatarId": "0c84498aec174b9cb9b19932c38ce902",
+      "groupId": "6accdd4fb68e46008f832ac1946e9ed6"
+    },
+    "carlos": {
+      "avatarId": "146c430ca5b6449aa99c92b752934ce6",
+      "groupId": "bff0ad623c43457a9f3c00b61c319e00"
+    },
+    "rafael": {
+      "avatarId": "cd99a1cb9dbc43079b3979b53e682e56",
+      "groupId": "3b40c1374ea640cdb329c3fbcbea1f1b"
+    },
+    "luis": {
+      "avatarId": "8799c178bff74264b363ca84718f082e",
+      "groupId": "98e4300cf50b48deb3cf8f970ffcf787"
+    },
+    "valentina": {
+      "avatarId": "d8b31df48a1f4dea9cb33465bfa42a24",
+      "groupId": "a3a0388afb64481daf752d0f973ed74a"
+    },
+    "sofia": {
+      "avatarId": "622a534a49234a67b15ffa1cad27c410",
+      "groupId": "47aab537f95e4f90848bd44128690767"
+    },
+    "isabela": {
+      "avatarId": "93c7c76478d74776b5512ce019cba190",
+      "groupId": "e9aae43bef454ef9a6bcc487e0aae775"
+    },
+    "camila": {
+      "avatarId": "e091925d528f484d9eab8e728d6239f5",
+      "groupId": "55de8a0f703c41689e5fd3c877ba9bac"
+    },
+    "jean": {
+      "avatarId": "32549693f1434553ae411efec3fd063c",
+      "groupId": "d2970c95794e40bcbcf876762c05ad1d"
+    },
+    "marie-claire": {
+      "avatarId": "ee8082d368b849eabf529a94b010e221",
+      "groupId": "7c0f860526c448fbb432b60a99e7c0a3"
+    },
+    "yuki": {
+      "avatarId": "0528b56176de4278b850fff17295d98b",
+      "groupId": "d1ae2487b4d44b47b793942f412c7dae"
+    },
+    "jimin": {
+      "avatarId": "9a7635b6e27f44f6a3f3d226f2067140",
+      "groupId": "55c14aa743a147cc9ff11df8013a03f7"
+    },
+    "wei": {
+      "avatarId": "7fb9a82494fc4d429895cf034faf1dc9",
+      "groupId": "2585f7f9aca54325b88b14f7b2bf4a85"
+    },
+    "mei-ling": {
+      "avatarId": "ea2247b1545048c282bf18747cc04096",
+      "groupId": "09cb37b9e2544a58ae2a9b580254b7ce"
+    },
+    "ahmed": {
+      "avatarId": "94bd688a57494d06a78de509319c8c50",
+      "groupId": "4c181dca8b3946ff9ceecc6b3d453b00"
+    },
+    "yasmine": {
+      "avatarId": "b5eaf162b8b24d72a56950fb3e1cb2d5",
+      "groupId": "4a057be519f344b382d7d1c286eac85d"
+    },
+    "hans": {
+      "avatarId": "8906944b7629477fa71fb8471ba2a16d",
+      "groupId": "f62116db937d4d1cbf625c387172f3e8"
+    },
+    "giulia": {
+      "avatarId": "29485f5a4fe846cb98ee58ddf83d6a3e",
+      "groupId": "c91f152f9e8f406ba032d0a95f31b0c7"
+    },
+    "pieter": {
+      "avatarId": "23e5f8b241944683824bbdeb2591c4a3",
+      "groupId": "64c729dd7591450a943f4ff2587568fe"
+    },
+    "natasha": {
+      "avatarId": "0f76b616b5504174aba484d8f2cb5f99",
+      "groupId": "17495d4d69744712b82278915c2a201c"
+    },
+    "emre": {
+      "avatarId": "bb629a8776a14798ab89673214d212d7",
+      "groupId": "06c7ea0e1e374fcaaa78b170bb2e4356"
+    },
+    "linh": {
+      "avatarId": "80999646c9424274add2a76547d7e041",
+      "groupId": "cad4a814168c4b3ca4fefddf05d494dd"
+    },
+    "somchai": {
+      "avatarId": "228fc911425c4a408a99b0b53a88dcad",
+      "groupId": "e8bf58bc923d4b2783685629690d0d03"
+    },
+    "priya": {
+      "avatarId": "ddbc9e957042461fb357a39dc743a991",
+      "groupId": "914c6113328f4c398025cc172515a000"
+    },
+    "kwame": {
+      "avatarId": "cfe3e95b657e42389597816a19ae2e3d",
+      "groupId": "a5e9db558f3f4cbe8836d0a9e43a472f"
+    },
+    "amara": {
+      "avatarId": "96bd37fa698c4c40943b0daac270b772",
+      "groupId": "25c4ee4e52fa435d9d78742c3086eb51"
+    },
+    "miguel": {
+      "avatarId": "8437d5c712cf432995e064b06e96f822",
+      "groupId": "010cb04d1d4e4d3cb8423f702adc6eaf"
+    },
+    "anna": {
+      "avatarId": "72ea051dc24742cf9c276a471b692ccf",
+      "groupId": "1173b9fc9edc465a9cc68767bad4189b"
+    },
+    "olivia": {
+      "avatarId": "4e7c9f0206b6406892206feff557b479",
+      "groupId": "57c8d297044d4788990a480bda59bce0"
+    },
+    "marcus": {
+      "avatarId": "6e8fa3f236ba4a4dbcdbc5ba739f81e4",
+      "groupId": "2d886d06b2d545c5b969b95670a8cced"
+    },
+    "james": {
+      "avatarId": "4a689e6fdfaf4827a8cc66be95fbfa6e",
+      "groupId": "e5fbac4f400d44cd8c8571888e73b836"
+    },
+    "chioma": {
+      "avatarId": "1c6865c5d34b4d808819294fe67ab92d",
+      "groupId": "ef9877b143934ba6ae384d20071c573e"
+    },
+    "priya-en": {
+      "avatarId": "1a76f8ff545342338067ec8f30bc0480",
+      "groupId": "960e114503e5467e904f247a35b0a3f1"
+    },
+    "thabo": {
+      "avatarId": "f66cb36fe4e14622ac6a35bc815ab719",
+      "groupId": "2500e17c29d14cbe9813ed0574791ff1"
+    }
+  }
+}

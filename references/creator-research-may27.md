@@ -1,0 +1,194 @@
+# Creator Research — May 27, 2026
+
+## @aprendeinglesen7meses (Instagram)
+- **Name:** Unknown (runs ingles7meses.com)
+- **Platform:** Instagram + Website (ingles7meses.com)
+- **Niche:** Teaching English to Spanish speakers (Dominican Republic / LatAm)
+- **Promise:** "Aprende Inglés en 7 meses" (Learn English in 7 months)
+- **Target:** Call center workers in DR who need English for jobs
+- **Pricing (in Dominican Pesos RD$):**
+  - Plan Básico (Inglés Rápido 7 Meses): RD$34 (~$0.60 USD)
+  - Plan "Negocios en Inglés" (B2 in 7 months): RD$15 (~$0.26 USD)
+  - Plan "Familia" (Group Discount): RD$18 (~$0.31 USD)
+  - Plan Premium (Inglés Acelerado VIP): RD$19 (~$0.33 USD)
+  - EBook: RD$800 (discounted from RD$1,000) (~$14 USD)
+- **Format:** 100% virtual classes, accelerated method
+- **Testimonials:** Students report going from zero to conversational in 7 months
+- **Monetization:** Course sales via website, Instagram promotion
+- **Key Insight:** Pricing is EXTREMELY low (under $1 USD for courses) — confirms the DR market needs ultra-affordable options
+- **Relevance to ConnectWorld AI:** Perfect affiliate candidate for DR market. Their pricing proves $2.99/mo is actually premium in this market.
+
+## @dannycashhout (Instagram + TikTok)
+- **Real Name:** Daniel Quezada
+- **Location:** El Paso, Texas (Mexican-American)
+- **Instagram:** 1M followers, 510 posts
+- **TikTok:** 323K followers, 6.6M likes
+- **Bio:** "spice up your plate & your vocab" + @Tortilleriacrystalelpaso
+- **Email:** cashhoutmanagement@gmail.com
+- **Content:** Lifestyle/food/fashion + bilingual content (English/Spanish)
+- **Format:** Daily life vlogs, food content (works at parents' restaurant), fashion, travel
+- **Key Feature:** Naturally bilingual — mixes English and Spanish in content
+- **Audience:** Young Mexican-Americans, Latinos in the US, bilingual community
+- **Not a teacher:** He's a lifestyle influencer who happens to be bilingual
+- **Relevance to ConnectWorld AI:** 
+  - His audience is EXACTLY our target demographic (bilingual Latinos who want to improve both languages)
+  - He's not a language teacher — he's a lifestyle brand that could PROMOTE us
+  - "Spice up your vocab" in his bio suggests he's open to language/education content
+  - His restaurant content + bilingual captions = perfect for our "learn through culture" approach
+  - Potential affiliate: His 1M IG + 323K TikTok audience could drive massive signups
+  - He's in El Paso (US pricing = $13.99/mo subscribers, much higher revenue per user)
+
+## @espanol.w.lola (Instagram + TikTok)
+- **Name:** Lola (unknown last name)
+- **Instagram:** 421K followers, 183 posts, 13 following
+- **TikTok:** 369.3K followers, 2.1M likes
+- **YouTube:** 1.45K subscribers, 174 videos
+- **Bio:** "Spanish made fun. Still don't get it? Get Airlearn"
+- **Niche:** Teaching Spanish to English speakers (the REVERSE direction of Omar)
+- **Content Format:**
+  - Short viral clips: "Say THIS in Spanish when..." (situational phrases)
+  - Humor-driven: "Spanish doesn't sugarcoat ANYTHING"
+  - Relatable scenarios: annoying guys, apologies, being over it
+  - Hashtags: #learnspanish #spanishphrases #spanishteacher #spanishlesson
+- **Monetization:** Promotes Airlearn app (likely paid partnership/affiliate)
+  - Giveaway: "Download Airlearn, do a lesson, leave a comment — win $100"
+- **Teaching Style:** Fun, sassy, Gen-Z friendly, meme-driven
+- **Key Insight:** She's already doing affiliate marketing for Airlearn (a competitor!)
+- **Relevance to ConnectWorld AI:**
+  - 421K IG + 369K TikTok = ~790K combined audience
+  - She teaches Spanish to English speakers (our English→Spanish direction)
+  - She's ALREADY an affiliate for Airlearn — meaning she's open to switching if we offer better terms
+  - Her audience is young English speakers wanting to learn Spanish (US market = $13.99/mo pricing)
+  - Her style (humor, situational phrases, slang) aligns perfectly with ConnectWorld AI's approach
+  - Potential play: Offer her better commission than Airlearn + feature her as a "teacher personality" in the app
+  - Her "Spanish made fun" brand = exactly our positioning
+  - She could be our English→Spanish counterpart to Omar (Spanish→English)
+
+## @spanishovertea (Instagram + TikTok)
+- **Name:** Daniela (Dominican, certified Spanish teacher + interpreter coach)
+- **Instagram:** 1.1K+ followers, 29 posts, 8 following
+- **TikTok:** 7,933 followers, 219.9K likes
+- **Bio:** "Real-life Spanish with Dominican vibes. Learn with me"
+- **Niche:** Teaching Dominican Spanish to English speakers
+- **Content Format:**
+  - Short relatable clips: "I still mess this up" (common mistakes)
+  - Dominican culture + humor: "Dominicans are not dramatic at all"
+  - Real-life situational Spanish (not textbook)
+  - Duets with other Spanish creators
+- **Monetization:** Still small/growing — no visible paid partnerships yet
+- **Key Insight:** She's SMALL but perfectly positioned for us:
+  - Dominican + certified teacher + interpreter = exactly our DR market
+  - Only 1.1K followers = affordable to partner with (she'd be thrilled)
+  - Her content style matches ConnectWorld AI's "real Spanish, not textbook" approach
+  - Could be our first "micro-influencer" affiliate test case
+  - Low risk, high alignment — perfect for proving the affiliate model before approaching Omar
+- **Relevance to ConnectWorld AI:**
+  - Micro-influencer play: sign her cheap, let her grow WITH us
+  - Her Dominican vibes = perfect for Caribbean Plan marketing
+  - Could become a featured AI avatar voice for Dominican Spanish
+  - Test case for affiliate system before approaching bigger creators
+
+## @ai_spanish_tutor (Instagram) — COMPETITOR
+- **Name:** Stella: Speak & Learn Spanish App
+- **Instagram:** Unknown follower count (appears to be a branded app account)
+- **Bio:** "Learn Spanish through songs & real means. Listen here, practice grammar with Stella AI. Master pronunciation. Bite-sized lessons"
+- **What it is:** An AI-powered Spanish learning app (direct competitor)
+- **Key Features:** Songs, AI grammar practice, pronunciation, bite-sized lessons
+- **Relevance to ConnectWorld AI:**
+  - This is a COMPETITOR, not a potential affiliate
+  - They're using the same "learn through songs" approach we have
+  - They have an AI tutor named "Stella"
+  - Their Instagram presence suggests they're marketing via social media (same strategy we're planning)
+  - We should study their app to understand their UX and find weaknesses
+  - Other competitors in this space: Pingo AI, LanguaTalk (Langua), HelloTalk Spanish AI
+  - Key differentiator for us: We have REAL creator partnerships + cultural immersion + video content + multi-language (they're Spanish-only)
+
+## @byondlanguage (Instagram + YouTube + TikTok)
+- **Name:** Daniel Herrera
+- **Instagram:** Unknown follower count (high engagement — posts getting 882-8,889 likes)
+- **YouTube:** 4.35K subscribers, 1.3K videos
+- **Bio:** "Spanish Confidence Coach — Stop overthinking. Start speaking naturally in Spanish."
+- **Niche:** Teaching Spanish to English speakers (confidence/fluency focused)
+- **Content Format:**
+  - "Never say X, say THIS instead" (natural alternatives to textbook phrases)
+  - Confidence coaching approach (not grammar drills)
+  - Free Spanish Playbook download (lead magnet)
+  - Online course (paid)
+- **Monetization:** Online course, free playbook funnel, likely coaching sessions
+- **Relevance to ConnectWorld AI:**
+  - His "confidence coach" angle is unique — could be an AI avatar personality type
+  - 1.3K YouTube videos = massive content library to study format patterns
+  - Mid-tier creator — affordable to partner with, established enough to drive signups
+  - His audience wants to SPEAK, not just study — aligns with our conversation-first approach
+
+## @endosidiomas (Instagram)
+- **Name:** Danette
+- **Instagram:** 5.6K followers, 77 posts, 207 following
+- **Bio:** "No sabo -> Yo sabo. Follow along as I share my Spanish learning journey"
+- **Email:** DanetteHabla@gmail.com
+- **Niche:** Heritage speaker reclaiming Spanish (the "no sabo kid" journey)
+- **Content Format:**
+  - Personal journey documenting (learning in public)
+  - Travel immersion content (CDMX trips to practice)
+  - Relatable "no sabo" identity content
+  - Collaborations with other creators (@spanishovertea)
+- **Monetization:** Still growing — no visible paid products yet
+- **Key Insight:** The "no sabo kid" market is HUGE — millions of US Latinos who grew up not speaking Spanish and want to reclaim it
+- **Relevance to ConnectWorld AI:**
+  - Micro-influencer, very affordable to partner with
+  - Her audience = heritage speakers (unique segment we should target)
+  - "No sabo" identity resonates with millions of US Latinos
+  - Could be a featured "learning journey" ambassador — shows real progress using our app
+
+## @bwill_memphis10 (Instagram + TikTok)
+- **Name:** Brandon Williams (Bwill)
+- **Instagram:** Unknown follower count (high engagement — viral reels)
+- **TikTok:** @brandonwilliams972_
+- **Bio:** "¡GrinGOSPEAKspanish! Founder. Spanish Tutor. DM 'teach me'. Black 4ever & Always"
+- **Location:** Memphis, TN (Black American learning/teaching Spanish)
+- **Niche:** Black American teaching/learning Spanish — "ratchet Spanish tutor"
+- **Content Format:**
+  - Story-time format: "This is why it's important to know Spanish in 2026"
+  - Anti-Duolingo stance: "Delete Duolingo, that shit is ass"
+  - Addresses racism/colorism in Latino spaces as a Black Spanish speaker
+  - Tutoring services (DM "GRINGO SPEAK" to sign up)
+  - Real-life scenarios where knowing Spanish saved him
+- **Monetization:** 1-on-1 tutoring via DMs
+- **Key Insight:** MASSIVE untapped market — Black Americans learning Spanish
+  - His brand is raw, authentic, anti-establishment (anti-Duolingo)
+  - He's already telling people to delete our competitors
+  - He's a TUTOR (not just content creator) — could actually teach on our platform
+- **Relevance to ConnectWorld AI:**
+  - His audience = Black Americans who want to learn Spanish (underserved market)
+  - His anti-Duolingo stance means he'd LOVE to promote an alternative
+  - "Ratchet Spanish tutor" brand = perfect AI avatar personality (fun, no BS, street-smart)
+  - He's Dominican-adjacent (people ask if he's Dominican because of his accent)
+  - Could be both an affiliate AND a premium human tutor on our platform
+
+## @thatbilingualchick (Instagram + TikTok + Website)
+- **Name:** Kylah (has MS degree)
+- **Instagram:** Unknown follower count (high engagement, verified-level content quality)
+- **TikTok:** Active, viral clips
+- **Website:** thatbilingualchick.com
+- **Email:** holi@thatbilingualchick.com
+- **Bio:** "Making language learning fun. Spanish y lifestyle y travel. LA | CDMX"
+- **Location:** Los Angeles + Mexico City
+- **Niche:** Bilingual lifestyle + Spanish learning (Black woman, not Latina)
+- **Content Format:**
+  - Travel immersion (CDMX, Latin America)
+  - "Tricks I use to recall words" — practical tips
+  - Texting acronyms in Spanish
+  - Pop culture + language crossover
+  - TikTok invited her (verified/established creator)
+- **Monetization:** Brand partnerships, travel content (@kylahstravels), likely courses
+- **Key Insight:** She's a BLACK WOMAN who speaks fluent Spanish — powerful representation
+  - "While I'm not Latina, I do speak several languages... I feel most myself when I speak Spanish"
+  - Sacramento native, bilingual program graduate, studied abroad
+  - Has a Master's degree — credibility + relatability
+- **Relevance to ConnectWorld AI:**
+  - Her audience = diverse learners who don't fit the "typical" Spanish learner mold
+  - Representation matters — Black woman speaking fluent Spanish inspires others
+  - LA + CDMX base = perfect for US + Mexico market
+  - Lifestyle + travel angle = aligns with our Dream Vacation Mode and cultural immersion
+  - Established enough to drive real signups, relatable enough to feel authentic
+  - Could be a premium AI avatar voice — "the bilingual bestie"

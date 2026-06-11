@@ -1,0 +1,6 @@
+TS Errors remaining after dialpad + speaker checkpoint:
+1. app/learning-goal-setup.tsx(578,28): Colors.cardBorder -> should be Colors.border or Colors.redBorder
+2. app/lesson-player.tsx(7,37): Module "expo-video" has no exported member 'useEvent'
+3. app/settings.tsx(544,32): (truncated - need to check)
+
+Preview screenshot shows the splash animation with ConnectMe AI logo and glow ring - looks good.

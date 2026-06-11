@@ -1,0 +1,40 @@
+CREATE TABLE `content_validation` (
+	`id` int AUTO_INCREMENT NOT NULL,
+	`contentType` varchar(32) NOT NULL,
+	`language` varchar(64) NOT NULL,
+	`dialect` varchar(64),
+	`title` varchar(255) NOT NULL,
+	`content` json NOT NULL,
+	`sourceCreator` varchar(128),
+	`status` varchar(32) NOT NULL DEFAULT 'pending_review',
+	`reviewerNotes` text,
+	`reviewedBy` int,
+	`reviewedAt` timestamp,
+	`submittedBy` int,
+	`createdAt` timestamp NOT NULL DEFAULT (now()),
+	`updatedAt` timestamp NOT NULL DEFAULT (now()) ON UPDATE CURRENT_TIMESTAMP,
+	CONSTRAINT `content_validation_id` PRIMARY KEY(`id`)
+);
+--> statement-breakpoint
+CREATE TABLE `exercise_analytics` (
+	`id` int AUTO_INCREMENT NOT NULL,
+	`userId` int NOT NULL,
+	`eventId` varchar(64) NOT NULL,
+	`exerciseType` varchar(64) NOT NULL,
+	`action` varchar(16) NOT NULL,
+	`timestamp` timestamp NOT NULL,
+	`language` varchar(64) NOT NULL,
+	`level` varchar(8),
+	`correct` int,
+	`total` int,
+	`durationMs` int,
+	`accuracy` int,
+	`audioMode` varchar(16),
+	`phraseIndex` int,
+	`abandonReason` varchar(32),
+	`deviceId` varchar(128),
+	`metadata` json,
+	`createdAt` timestamp NOT NULL DEFAULT (now()),
+	CONSTRAINT `exercise_analytics_id` PRIMARY KEY(`id`),
+	CONSTRAINT `event_id_idx` UNIQUE(`eventId`,`userId`)
+);
